@@ -1,2 +1,2 @@
-# practice
-for demo exam practice
+# elearning
+This repository consist of node js application for transflower students
